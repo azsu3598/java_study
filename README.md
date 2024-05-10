@@ -105,3 +105,4 @@
 - 2024-05-06 ( 21 : 00 ~ 22 : 56 (자바의 정석 강의))
 - 2024-05-07 ( 17 : 00 ~ 18 : 32 , 20 : 00 ~ 21 : 00 )
 - 2024-05-08 ( 16 : 10 ~ 17 : 11 (자바의 정석 강의-https://www.youtube.com/watch?v=8Ti7Beaq62A&list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp&index=141까지함), 17 : 23 ~ 18 : 45, 19 : 00 ~ 20 : 35 (api활용한 fconline 전적 사이트))
+- 2024-05-09 ( 16 : 00 ~ 18 : 06 (https://www.youtube.com/watch?v=W0v3Gwx92hc&list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp&index=152 부터듣기), 20 : 30 ~ 21 : 30 (전적 사이트))
